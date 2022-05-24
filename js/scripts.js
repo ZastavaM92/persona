@@ -6,11 +6,6 @@ let stalkerMoment = {       //stalker
         'Глеб',
         'Григорой',
         'Вася',
-        'Эдик',
-        'Женя',
-        'Ваня',
-        'Саня',
-        'Рома',
     ],
     klichka:[               //klichka (fam)
         'Кабан',
@@ -19,11 +14,6 @@ let stalkerMoment = {       //stalker
         'Баян',
         'Мышь',
         'Паращютист',
-        'Летчик',
-        'Свинец',
-        'Тугой',
-        'Свисток',
-        'Щелбан',
     ]
 }
 
@@ -33,11 +23,6 @@ let groupsMoment = {
         "Бандиты",
         "Чистое небо",
         "Долг",
-        "Свобода",
-        "Наемники",
-        "Ученые",
-        "Военные",
-        "Монолит",
     ]
 }
 
@@ -50,9 +35,6 @@ let rangsMoment = {
         "Бывалый",
         "Ветеран",
         "Легенда Зоны",
-        "Сын Зоны",
-        "Дитя Зоны",
-        "Черная Зона",
     ]
 }
 
@@ -69,11 +51,6 @@ let skil = {     //skil (sposobnosti)
         "АКС-74у 'Гексагон', АПС, Комбинезон 'СКАТ-9М'",
         "АКМС 'Бубен', ПЯ 'Грач', Комбинезон ЧН-3б",
         "L-85, Desert Eagle, Экзоскелет 'Долга'",
-        "Colt M4A1 'ACOG', Glock 17, Комбинезон 'Ветер Свободы'",
-        "ВСС 'Кобра', Обрез БМ-16, ПС3-9д 'Броня Долга'",
-        "Вепрь-12, Glock 17, ПС5-М 'Универсальная защита'",
-        "FN SCAR-H 'Eotech', HK USP 'Match', Комбинезон 'Монолита'",
-        "ПКП 'Печенег', HK USP 'Match', Экзоскелет 'Монолита'",
     ]}
 
 let icon = {
@@ -88,10 +65,6 @@ let icon = {
         '<img src="css/img/8.png" width="200px" height="200px">',
         '<img src="css/img/9.png" width="200px" height="200px">',
         '<img src="css/img/10.png" width="200px" height="200px">',
-        '<img src="css/img/11.png" width="200px" height="200px">',
-        '<img src="css/img/12.png" width="200px" height="200px">',
-        '<img src="css/img/13.png" width="200px" height="200px">',
-        '<img src="css/img/14.png" width="200px" height="200px">',
     ]
 }
 
